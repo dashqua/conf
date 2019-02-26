@@ -1,0 +1,1 @@
+﻿Location: (WINDOWS) %APPDATA%/texstudio
